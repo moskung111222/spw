@@ -5,8 +5,8 @@ import java.awt.Color;
 import java.awt.Graphics2D;
 
 public class Enemy extends Sprite{
-	public static final int Y_TO_FADE = 600;
-	public static final int Y_TO_DIE = 800;
+	public static final int Y_TO_FADE = 600;//change
+	public static final int Y_TO_DIE = 800;//change
 	
 	private int step = 12;
 	private boolean alive = true;
